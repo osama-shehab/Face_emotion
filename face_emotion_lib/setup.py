@@ -13,6 +13,6 @@ setup(
     description='A library for face recognition and emotion detection',
     author='Osama Abu Shehab',
     author_email='osama99.shehab@outlook.com',
-    url=,  # Replace with your repository URL
+    url='https://github.com/osama-shehab/Face_emotion.git',  # Replace with your repository URL
 )
 
